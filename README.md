@@ -7,7 +7,7 @@ My name is Alex J. Tovar. I'm currently challenging myself to pursue a Data Scie
 
 ### 🧰 Languages and Tools
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" align="left" width="30px" style="padding-right:10px;"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="Java" align="left" width="30px" style="padding-right:10px;"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" align="left" width="30px" style="padding-right:10px;"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" alt="TypeScript" align="left" width="30px" style="padding-right:10px;"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" alt="Angular" align="left" width="30px" style="padding-right:10px;"/> 
@@ -22,4 +22,6 @@ My name is Alex J. Tovar. I'm currently challenging myself to pursue a Data Scie
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" alt="C++" align="left" width="30px" style="padding-right:10px;"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" align="left" width="30px" style="padding-right:10px;"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" align="left" width="30px" style="padding-right:10px;"/> <br />
+
+          
 
