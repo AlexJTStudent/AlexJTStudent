@@ -11,19 +11,13 @@ My name is Alex J. Tovar. I'm currently challenging myself to pursue a Data Scie
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="Spring" align="left" width="30px" style="padding-right:10px;"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" alt="TypeScript" align="left" width="30px" style="padding-right:10px;"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" alt="Angular" align="left" width="30px" style="padding-right:10px;"/> 
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" alt="Git" align="left" width="30px" style="padding-right:10px;"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original-wordmark.svg" alt="Linux" align="left" width="30px" style="padding-right:10px;"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" alt="HTML" align="left" width="30px" style="padding-right:10px;"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original-wordmark.svg" alt="CSS" align="left" width="30px" style="padding-right:10px;"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svgt" align="left" width="30px" style="padding-right:10px;"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="React" align="left" width="30px" style="padding-right:10px;"/> 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" align="left" width="30px" style="padding-right:10px;"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="HTML" align="left" width="30px" style="padding-right:10px;"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="CSS" align="left" width="30px" style="padding-right:10px;"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="JavaScript" align="left" width="30px" style="padding-right:10px;"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" align="left" width="30px" style="padding-right:10px;"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="NodeJS" align="left" width="30px" style="padding-right:10px;"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" alt="Python" align="left" width="30px" style="padding-right:10px;"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" alt="C++" align="left" width="30px" style="padding-right:10px;"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" align="left" width="30px" style="padding-right:10px;"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" align="left" width="30px" style="padding-right:10px;"/> <br />
 
           
 
