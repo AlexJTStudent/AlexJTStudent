@@ -1,6 +1,6 @@
 # 💻 Alex Tovar
 
-**`Aspiring Data Scientist/Machine Learning Engineer`**
+**`Aspiring AI/Data Scientist`**
 
 My name is Alex J. Tovar. I'm currently challenging myself to pursue a Data Science degree by mastering tools such as programming languages and libraries, advanced mathematics, and methods to research data-driven decisions. As well as Machine Learning and Applied Mathematics to perform predictions and research.
 
