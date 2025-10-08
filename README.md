@@ -28,21 +28,7 @@ My name is Alex J. Tovar. I'm currently challenging myself to pursue a Data Scie
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" height="70"/> &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original-wordmark.svg" height="90"/> &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original-wordmark.svg" height="90"/> &nbsp;&nbsp;&nbsp;
-
-
-         
-
-
-
 </p>
-
-
-## 
-### 🏫 Education 
-### Data Science Batchelor’s (3.72 GPA)   September 2024 - Present 
-#### (Brigham Young University - Idaho)    Rexburg, Idaho
-#### Certification earned by graduation:
-Statistics Minor | Data Science Certificate | Machine Learning Certificate | General Mathematics Cluster
 
 
           
